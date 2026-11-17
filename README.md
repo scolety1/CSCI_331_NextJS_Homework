@@ -26,6 +26,10 @@ These are the package's documented commands, not a claim that a fresh build or e
 
 Bootstrapped with create-next-app. Starter framework assets remain credited to Next.js/Vercel and their respective authors.
 
-## Contribution and scope
+## About this archive
 
-Collected by Spencer Colety. This archive includes coursework, examples, or starter material; the bulk-upload history does not establish sole authorship of individual methods. Preserve source credits and course-sharing restrictions. This README update was AI-assisted and does not change the exercise code.
+I wrote the coursework implementations by hand. Included course examples, starter code and framework scaffolding retain their original attribution.
+
+These exercises were originally developed and kept on my computer, then uploaded together in November 2026. The recent Git history reflects that upload, not when I wrote the coursework. Original lab and project folders are retained as separate exercises.
+
+README presentation was updated with AI assistance; exercise source is unchanged.
